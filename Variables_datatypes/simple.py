@@ -1,3 +1,5 @@
+#THIS IS VARIABLE AND DATA TYPES PROGRAM
+
 dept_name = "DevOps"
 dept_member = "Project Lead"
 
