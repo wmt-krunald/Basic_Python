@@ -5,6 +5,7 @@ def wel_user():
 
 wel_user()
 
+#This uname function already pass the argument.
 def uname(name, age):
     print("Welcome " + name + ", Your age is " + str(age) + "." )
 
