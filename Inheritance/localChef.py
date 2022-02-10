@@ -11,6 +11,4 @@ class Chef:
     
     def make_dal(self):
         print("The chef make Dal")
-        
-        
-        
+   
