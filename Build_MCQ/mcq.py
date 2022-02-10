@@ -7,7 +7,7 @@ question_prompts = [
     "\nWhat is color of Banana?\n(a)Red\n(b)Black\n(c)Yellow\n\n"
 ]
 
-questions = [
+questions = [   #This will print the questions
     Question(question_prompts[0], "a"),
     Question(question_prompts[1], "a"),
     Question(question_prompts[2], "c")
